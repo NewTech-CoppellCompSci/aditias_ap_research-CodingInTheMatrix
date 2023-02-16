@@ -3,8 +3,8 @@ package lab;
 public class TableAndEquations {
 	void main(String[] args) {
     // Create a table with 2 columns and 10 rows
-    String numRows = 10;
-    int numCols = 2
+    int numRows = 10;
+    int numCols = 2;
     String[][] table = new String[numRows][numCols];
 
     // Initialize the table with values
